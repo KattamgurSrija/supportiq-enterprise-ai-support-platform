@@ -1,0 +1,19 @@
+
+# IntelliJ IDEA
+.idea/
+
+# Java build output
+target/
+
+# Angular dependencies and build output
+node_modules/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
